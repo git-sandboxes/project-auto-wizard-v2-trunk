@@ -35,8 +35,8 @@
 # Gradle/Maven -SNAPSHOT is kept when the version is bumped (1.2.0-SNAPSHOT -> 1.2.1-SNAPSHOT).
 # ===
 
-version: "1.3.0"
-version_code: 2 # app build number
+version: "2.0.0"
+version_code: 3 # app build number
 project_types: ["basic"] # first entry is primary
 language: "ko" # message language: en | ko
 metadata:
